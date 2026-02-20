@@ -1,0 +1,117 @@
+trek,cost,time,trip_grade,max_altitude,accomodation,best_travel_time,contact_or_book_your_trip,cost_npr,duration_days,elevation_meters,difficulty_numeric,region,trip_type,best_seasons,num_seasons,cost_per_day,elevation_category,duration_category,popularity_score,region_encoded,trip_type_encoded,season_spring,season_summer,season_autumn,season_winter
+Everest Base Camp Trek,"
+$1,420     USD", 16 Days,Moderate,5545 m,Hotel/Guesthouse,March - May & Sept - Dec,https://www.nepalhikingteam.com,187440,16,5545,2.0,khumbu,trekking,"['spring', 'autumn', 'winter']",3,11715.0,extreme,long,80,1,1,1,0,1,1
+Everest Base Camp Short Trek,"
+$1,295     USD", 14 Days,Moderate,5545 m,Hotel/Guesthouse,March - May & Sept - Dec,https://www.nepalhikingteam.com,170940,14,5545,2.0,khumbu,trekking,"['spring', 'autumn', 'winter']",3,12210.0,extreme,medium,50,1,1,1,0,1,1
+Everest Base Camp Heli Shuttle Trek,"
+$2000 USD", 12 Days,Moderate,5545 m,Hotel/Guesthouse,March - May & Sept - Dec,https://www.nepalhikingteam.com,264000,12,5545,2.0,khumbu,trekking,"['spring', 'autumn', 'winter']",3,22000.0,extreme,medium,70,1,1,1,0,1,1
+Everest Base Camp Heli Trek,"
+$3,300     USD", 11 Days,Moderate,5545 m,Hotel/Guesthouse,March - May & Sept - Dec,https://www.nepalhikingteam.com,435600,11,5545,2.0,khumbu,trekking,"['spring', 'autumn', 'winter']",3,39600.0,extreme,medium,70,1,1,1,0,1,1
+Everest Base Camp Trek for Seniors,"
+$1,800     USD", 20 Days,Moderate,5545 m,Hotel/Guesthouse,March - May & Sept - Dec,https://www.nepalhikingteam.com,237600,20,5545,2.0,khumbu,trekking,"['spring', 'autumn', 'winter']",3,11880.0,extreme,long,70,1,1,1,0,1,1
+Everest Chola Pass Trek,"
+$1,720     USD", 19 Days,Strenuous,5545 m,Hotel/Guesthouse,March - May & Sept - Dec,https://www.nepalhikingteam.com,227040,19,5545,3.5,khumbu,trekking,"['spring', 'autumn', 'winter']",3,11949.473684210527,extreme,long,35,1,1,1,0,1,1
+Gokyo Lake Renjo La Pass Trek,"
+$1,450     USD", 16 Days,Moderate,5360 m,Hotel/Guesthouse,March - May & Sept - Dec.,https://www.nepalhikingteam.com,191400,16,5360,2.0,khumbu,trekking,"['spring', 'autumn', 'winter']",3,11962.5,extreme,long,50,1,1,1,0,1,1
+Everest High Passes Trek,"
+$1,950     USD", 22 Days,Strenuous,5545 m,Hotel/Guesthouse,April - May & Sept - Nov,https://www.nepalhikingteam.com,257400,22,5545,3.5,khumbu,trekking,"['spring', 'autumn']",2,11700.0,extreme,extended,35,1,1,1,0,1,0
+Short Everest Trek,"
+$1060 USD", 7 Days,Easy To Moderate,3900 m,Hotel/Guesthouse,March - May & Sept - Dec.,https://www.nepalhikingteam.com,139920,7,3900,1.0,khumbu,trekking,"['spring', 'autumn', 'winter']",3,19988.571428571428,medium,short,60,1,1,1,0,1,1
+Everest Panorama Trek,"
+$1150 USD", 10 Days,Easy To Moderate,3860 m,Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.nepalhikingteam.com,151800,10,3860,1.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,15180.0,medium,medium,60,1,1,1,0,1,1
+Everest View Trek,"
+$1100 USD", 9 Days,Easy To Moderate,3860 m,Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.nepalhikingteam.com,145200,9,3860,1.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,16133.333333333334,medium,medium,60,1,1,1,0,1,1
+Luxury Everest Base Camp Heli Trek,"
+$4,200     USD", 11 Days,Moderate,5545 m,Hotel/Teahouse,March-May & Sept-Dec.,https://www.nepalhikingteam.com,554400,11,5545,2.0,khumbu,trekking,"['spring', 'autumn', 'winter']",3,50400.0,extreme,medium,70,1,1,1,0,1,1
+Everest Base Camp Trek with Chola and Renjo La Pass,"
+$1,900     USD", 21 Days,Strenuous,5545 m,Hotel/Guesthouse,March - May & Sept - Nov,https://www.nepalhikingteam.com,250800,21,5545,3.5,khumbu,trekking,"['spring', 'autumn']",2,11942.857142857143,extreme,long,65,1,1,1,0,1,0
+Annapurna Base Camp Trek,"
+$1,090     USD", 14 Days,Moderate,4210 m,Hotel/Guesthouse,March - May & Sept - Dec,https://www.nepalhikingteam.com,143880,14,4210,2.0,annapurna,trekking,"['spring', 'autumn', 'winter']",3,10277.142857142857,high,medium,75,2,1,1,0,1,1
+Annapurna Base Camp Short Trek,"
+$1,090     USD", 11 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Dec,https://www.nepalhikingteam.com,143880,11,4210,1.0,annapurna,trekking,"['spring', 'autumn', 'winter']",3,13080.0,high,medium,85,2,1,1,0,1,1
+Instant Annapurna Base Camp Trek,"
+$980     USD", 9 Days,Moderate,4230 m,Hotel/Guest Houses,March - May & Sept - Dec.,https://www.nepalhikingteam.com,129360,9,4230,2.0,annapurna,trekking,"['spring', 'autumn', 'winter']",3,14373.333333333334,high,medium,75,2,1,1,0,1,1
+Annapurna Base Camp Heli Trek,"
+$1,750     USD", 9 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Dec,https://www.nepalhikingteam.com,231000,9,4210,1.0,annapurna,trekking,"['spring', 'autumn', 'winter']",3,25666.666666666668,high,medium,75,2,1,1,0,1,1
+Mardi Himal Trek,"
+$850     USD", 9 Days,Easy To Moderate,4200 m,Hotel/Guesthouses,March - May & Sept - Dec,https://www.nepalhikingteam.com,112200,9,4200,1.0,annapurna,trekking,"['spring', 'autumn', 'winter']",3,12466.666666666666,high,medium,60,2,1,1,0,1,1
+Mardi Himal Trekking,"
+$850     USD", 8 Days,Easy To Moderate,"4,200 m",Hotel/Guesthouse,March-May & Sept-Dec.,https://www.nepalhikingteam.com,112200,8,4200,1.0,annapurna,trekking,"['spring', 'autumn', 'winter']",3,14025.0,high,medium,60,2,1,1,0,1,1
+Classic Annapurna Circuit Trek,"
+$1,350     USD", 18 Days,Moderate,5416 m,Hotel/Teahouses,March - May & Sept - Nov,https://www.nepalhikingteam.com,178200,18,5416,2.0,annapurna,trekking,"['spring', 'autumn']",2,9900.0,extreme,long,70,2,1,1,0,1,0
+Annapurna Circuit Trek,"
+$1,250     USD", 14 Days,Moderate,5416 m,Hotel/Teahouses,March-May & Sept-Dec,https://www.nepalhikingteam.com,165000,14,5416,2.0,annapurna,trekking,"['spring', 'autumn', 'winter']",3,11785.714285714286,extreme,medium,70,2,1,1,0,1,1
+Annapurna Circuit Short Trek,"
+$1,250     USD", 12 Days,Strenuous,5416 m,Hotel/Guesthouse,March - May & Sept - Nov.,https://www.nepalhikingteam.com,165000,12,5416,3.5,annapurna,trekking,"['spring', 'autumn']",2,13750.0,extreme,medium,65,2,1,1,0,1,0
+Annapurna Luxury Trek,"
+$1,450     USD", 9 Days,Easy To Moderate,2012m,Hotel/Luxury Lodges,March - May & Setpt - Dec,https://www.nepalhikingteam.com,191400,9,2012,1.0,annapurna,trekking,"['spring', 'winter']",2,21266.666666666668,low,medium,60,2,1,1,0,0,1
+Annapurna Panorama Trek,"
+$860     USD", 9 Days,Easy,3210 m,Hotel/Teahouse,Jan - May & Sept - Dec,https://www.nepalhikingteam.com,113520,9,3210,1.0,annapurna,trekking,"['winter', 'spring', 'autumn']",3,12613.333333333334,medium,medium,60,2,1,1,0,1,1
+Annapurna Tilicho Lake Trek,"
+$1,450     USD", 17 Days,Strenuous,5416 m,Hotel/Guesthouse,March - May & Sept - Nov,https://www.nepalhikingteam.com,191400,17,5416,3.5,annapurna,trekking,"['spring', 'autumn']",2,11258.823529411764,extreme,long,45,2,1,1,0,1,0
+Short Annapurna Trek,"
+$590     USD", 5 Days,Easy,1990 m,Hotel/Lodges,Jan- May & Sept - Dec,https://www.nepalhikingteam.com,77880,5,1990,1.0,annapurna,trekking,"['winter', 'spring', 'autumn']",3,15576.0,low,short,70,2,1,1,0,1,1
+Manaslu Circuit Trek,"
+$1,450     USD", 15 Days,Strenuous,5106 m,Hotel/Guesthouse,March - May & Sept - Nov,https://www.nepalhikingteam.com,191400,15,5106,3.5,manaslu,trekking,"['spring', 'autumn']",2,12760.0,extreme,long,55,4,1,1,0,1,0
+Manaslu Circuit Trekking,"
+$1,380     USD", 14 Days,Moderate,5220 m,Hotel/Teahouses,March - May & Setpt - Nov,https://www.nepalhikingteam.com,182160,14,5220,2.0,manaslu,trekking,"['spring', 'autumn']",2,13011.42857142857,extreme,medium,60,4,1,1,0,1,0
+Tsum Valley with Manaslu Trek,"
+$1,850     USD", 20 Days,Strenuous,5220 m,Hotel/Guesthouse,March - May & Sept - Nov,https://www.nepalhikingteam.com,244200,20,5220,3.5,manaslu,trekking,"['spring', 'autumn']",2,12210.0,extreme,long,45,4,1,1,0,1,0
+Upper Mustang Trek,"
+$2,150     USD", 17 Days,Easy To Moderate,4210 m,Hotel/Guesthouse,March - May & Sept - Nov.,https://www.nepalhikingteam.com,283800,17,4210,1.0,mustang,trekking,"['spring', 'autumn']",2,16694.117647058825,high,long,50,5,1,1,0,1,0
+Upper Mustang Trek with Yara,"
+$2,300     USD", 18 Days,Easy To Moderate,4200 m,Hotel/Lodges,March - Nov,https://www.nepalhikingteam.com,303600,18,4200,1.0,mustang,trekking,"['spring', 'autumn']",2,16866.666666666668,high,long,50,5,1,1,0,1,0
+Upper Mustang Tiji Festival Trek,"
+$2,150     USD", 18 Days,Easy To Moderate,4210 m,Hotel/Teahouses,March - May & Sept - Nov,https://www.nepalhikingteam.com,283800,18,4210,1.0,mustang,trekking,"['spring', 'autumn']",2,15766.666666666666,high,long,50,5,1,1,0,1,0
+Langtang Valley Trek,"
+$750     USD", 10 Days,Easy To Moderate,5050 m,Hotel/Teahouse,March-May & Sept-Dec,https://www.nepalhikingteam.com,99000,10,5050,1.0,langtang,trekking,"['spring', 'autumn', 'winter']",3,9900.0,extreme,medium,85,3,1,1,0,1,1
+Langtang Gosaikunda Trek,"
+$1,180     USD", 16 Days,Easy To Moderate,4600m,Hotel/Guesthouse,March - May & Sept - Dec,https://www.nepalhikingteam.com,155760,16,4600,1.0,langtang,trekking,"['spring', 'autumn', 'winter']",3,9735.0,high,long,75,3,1,1,0,1,1
+Tamang Heritage Trek,"
+$920     USD", 14 Days,Easy To Moderate,5050 m,Hotel/Guesthouse,March - May & Sept - Dec,https://www.nepalhikingteam.com,121440,14,5050,1.0,langtang,cultural,"['spring', 'autumn', 'winter']",3,8674.285714285714,extreme,medium,60,3,2,1,0,1,1
+Tamang Heritage Trail,"
+$750     USD", 8 Days,Easy,2607 m,Teahouses/Lodges,Jan - May & Sept - Dec,https://www.nepalhikingteam.com,99000,8,2607,1.0,langtang,cultural,"['winter', 'spring', 'autumn']",3,12375.0,low,medium,70,3,2,1,0,1,1
+Helambu Trek,"
+$780     USD", 9 Days,Easy,3650 m,Hotel/Guesthouse,Jan - May & Sept- Dec,https://www.nepalhikingteam.com,102960,9,3650,1.0,helambu,trekking,"['winter', 'spring', 'autumn']",3,11440.0,medium,medium,60,10,1,1,0,1,1
+Annapurna Base Camp Trek  ," $1,499     USD", 11 Days,Moderate+Demanding,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,11,4130,2.0,annapurna,trekking,"['winter', 'spring', 'autumn']",3,17988.0,high,medium,75,2,1,1,0,1,1
+Everest Base Camp Trek for Youths  ," $1,750     USD", 14 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,231000,14,5545,3.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,16500.0,extreme,medium,65,1,1,1,0,1,1
+Everest Base Camp Short Trek  ," $1,499     USD", 14 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,14,5545,3.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,14133.42857142857,extreme,medium,45,1,1,1,0,1,1
+Everest Base Camp Trek  ," $1,499     USD", 16 Days,Moderate+Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,16,5545,2.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,12366.75,extreme,long,80,1,1,1,0,1,1
+Annapurna Circuit Trek  ," $1,499     USD", 17 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,17,5416,3.0,annapurna,trekking,"['winter', 'spring', 'autumn']",3,11639.29411764706,extreme,long,65,2,1,1,0,1,1
+Everest Base Camp Luxury Lodge Trek  ," $1,499     USD", 15 Days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,15,5545,3.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,13191.2,extreme,long,75,1,1,1,0,1,1
+Everest Base Camp Trek via Gokyo Lakes and Cho La Pass  ," $1,499     USD", 18 days,Demanding,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,18,5545,3.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,10992.666666666666,extreme,long,75,1,1,1,0,1,1
+Upper Mustang Trek  ," $1,499     USD", 17 Days,Moderate+Demanding,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,17,3870,2.0,mustang,trekking,"['winter', 'spring', 'autumn']",3,11639.29411764706,medium,long,50,5,1,1,0,1,1
+Everest Advanced Base Camp Trek from Tibet  ," $1,499     USD", 18 Days,Moderate+Demanding,"6,340m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,18,6340,2.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,10992.666666666666,extreme,long,50,1,1,1,0,1,1
+Gokyo Lakes and Gokyo Ri Trek  ," $1,499     USD", 14 Days,Moderate+Demanding,"5,357m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,14,5357,2.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,14133.42857142857,extreme,medium,50,1,1,1,0,1,1
+Mardi Himal Trek  ," $1,499     USD", 10 Days,Moderate,"3,540m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,10,3540,2.0,annapurna,trekking,"['winter', 'spring', 'autumn']",3,19786.8,medium,medium,50,2,1,1,0,1,1
+Manaslu Circuit Trek  ," $1,499     USD", 18 Days,Demanding,"5,160m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,18,5160,3.0,manaslu,trekking,"['winter', 'spring', 'autumn']",3,10992.666666666666,extreme,long,55,4,1,1,0,1,1
+Langtang Valley Trek  ," $1,499     USD", 11 Days,Moderate+Demanding,"5,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,11,5000,2.0,langtang,trekking,"['winter', 'spring', 'autumn']",3,17988.0,high,medium,65,3,1,1,0,1,1
+Annapurna Sanctuary Trek  ," $1,499     USD", 14 Days,Moderate+Demanding,"4,130m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,14,4130,2.0,annapurna,trekking,"['winter', 'spring', 'autumn']",3,14133.42857142857,high,medium,50,2,1,1,0,1,1
+Rara Lake Trek  ," $1,499     USD", 15 Days,Moderate,"3,055m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,15,3055,2.0,rara,trekking,"['winter', 'spring', 'autumn']",3,13191.2,medium,long,50,9,1,1,0,1,1
+Everest High Passes Trek  ," $1,499     USD", 20 Days,Demanding,"5,546m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,20,5546,3.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,9893.4,extreme,long,45,1,1,1,0,1,1
+Kanchenjunga Circuit Trek  ," $1,499     USD", 25 Days,Demanding,"5,143m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,25,5143,3.0,kanchenjunga,trekking,"['winter', 'spring', 'autumn']",3,7914.72,extreme,extended,45,8,1,1,0,1,1
+Everest View Trek  ," $1,499     USD", 12 Days,Light+Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,12,3870,1.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,16489.0,medium,medium,60,1,1,1,0,1,1
+Tsum Valley Trek  ," $1,499     USD", 19 Days,Demanding,"6,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,19,6000,3.0,manaslu,trekking,"['winter', 'spring', 'autumn']",3,10414.105263157895,extreme,long,45,4,1,1,0,1,1
+The Royal Trek  ," $1,499     USD", 9 Days,Moderate,"1,730m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,9,1730,2.0,other,trekking,"['winter', 'spring', 'autumn']",3,21985.333333333332,low,medium,50,0,1,1,0,1,1
+Makalu Base Camp Trek  ," $1,499     USD", 22 Days,Demanding+Challenging,"4,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,22,4870,3.0,makalu,trekking,"['winter', 'spring', 'autumn']",3,8994.0,high,extended,45,7,1,1,0,1,1
+"Langtang, Gosainkunda and Helambu Trek  "," $1,499     USD", 17 Days,Moderate,"5,000m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,17,5000,2.0,langtang,trekking,"['winter', 'spring', 'autumn']",3,11639.29411764706,high,long,65,3,1,1,0,1,1
+Nar Phu Valley Trek  ," $1,499     USD", 19 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,19,5416,3.0,other,trekking,"['winter', 'spring', 'autumn']",3,10414.105263157895,extreme,long,45,0,1,1,0,1,1
+Annapurna Circle Trek  ," $1,499     USD", 14 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,14,5416,3.0,annapurna,trekking,"['winter', 'spring', 'autumn']",3,14133.42857142857,extreme,medium,45,2,1,1,0,1,1
+Everest Kangshung Face Trek  ," $1,499     USD", 21 Days,Demanding+Challenging,"5,320m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,21,5320,3.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,9422.285714285714,extreme,long,45,1,1,1,0,1,1
+Tsum Valley and Manaslu Trek  ," $1,499     USD", 27 Days,Demanding,"4,460m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,27,4460,3.0,manaslu,trekking,"['winter', 'spring', 'autumn']",3,7328.444444444444,high,extended,55,4,1,1,0,1,1
+Khopra Ridge Community Trek  ," $1,499     USD", 13 Days,Moderate+Demanding,"4,500m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,13,4500,2.0,other,trekking,"['winter', 'spring', 'autumn']",3,15220.615384615385,high,medium,50,0,1,1,0,1,1
+Nepal Experience Tour  ," $1,499     USD", 12 Days,Light,"3,210m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,12,3210,1.0,other,trekking,"['winter', 'spring', 'autumn']",3,16489.0,medium,medium,60,0,1,1,0,1,1
+Annapurna Circuit Trek with Tilicho Lake and Poon Hill  ," $1,499     USD", 20 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,20,5416,3.0,annapurna,trekking,"['winter', 'spring', 'autumn']",3,9893.4,extreme,long,65,2,1,1,0,1,1
+Annapurna With Tilicho Lake Trek  ," $1,499     USD", 17 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,17,5416,3.0,annapurna,trekking,"['winter', 'spring', 'autumn']",3,11639.29411764706,extreme,long,45,2,1,1,0,1,1
+Langtang Valley Trek with Ganja la Pass  ," $1,499     USD", 14 Days,Demanding+Challenging,"5,122m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,14,5122,3.0,langtang,trekking,"['winter', 'spring', 'autumn']",3,14133.42857142857,extreme,medium,60,3,1,1,0,1,1
+Tamang Heritage Trek  ," $1,499     USD", 14 Days,Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,14,3870,2.0,langtang,cultural,"['winter', 'spring', 'autumn']",3,14133.42857142857,medium,medium,50,3,2,1,0,1,1
+Manaslu and Annapurna Trek with Tilicho Lake  ," $1,499     USD", 25 Days,Demanding,"5,416m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,25,5416,3.0,annapurna,trekking,"['winter', 'spring', 'autumn']",3,7914.72,extreme,extended,55,2,1,1,0,1,1
+Nepal Trekking and Everest Himalaya Heli Tour  ," $1,499     USD", 7 Days,Moderate,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,7,5545,2.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,28266.85714285714,extreme,short,50,1,1,1,0,1,1
+Nepal Hiking and Culture Tour  ," $1,499     USD", 8 Days,Moderate,"1,550m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,8,1550,2.0,other,cultural,"['winter', 'spring', 'autumn']",3,24733.5,low,medium,50,0,2,1,0,1,1
+Annapurna Sunrise and Everest View Trek  ," $1,499     USD", 17 Days,Moderate,"3,870m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,17,3870,2.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,11639.29411764706,medium,long,50,1,1,1,0,1,1
+Tenzing Hillary Everest Marathon  ," $1,499     USD", 20 Days,Demanding+Challenging,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.himalayanglacier.com,197868,20,5545,3.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,9893.4,extreme,long,45,1,1,1,0,1,1
+Everest Kalapathar Trekking,$1390     USD,15 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.adventurehimalayacircuit.com,183480,15,5545,2.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,12232.0,extreme,long,50,1,1,1,0,1,1
+Everest Base Camp Trek via Gokyo Lake,$1530     USD,19 Days,Moderate-Hard,"5,545m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.adventurehimalayacircuit.com,201960,19,5545,2.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,10629.473684210527,extreme,long,70,1,1,1,0,1,1
+Gokyo Lake Trek,$1190     USD,13 Days,Moderate,"5,357m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.adventurehimalayacircuit.com,157080,13,5357,2.0,khumbu,trekking,"['winter', 'spring', 'autumn']",3,12083.076923076924,extreme,medium,50,1,1,1,0,1,1
+Ghorepani Poon Hill Trek,$450     USD,10 Days,Easy,"3,210m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.adventurehimalayacircuit.com,59400,10,3210,1.0,other,trekking,"['winter', 'spring', 'autumn']",3,5940.0,medium,medium,70,0,1,1,0,1,1
+Langtang Valley Trekking,$690     USD,11 Days,Moderate,"4,773m",Hotel/Guesthouse,Jan - May & Sept - Dec,https://www.adventurehimalayacircuit.com,91080,11,4773,2.0,langtang,trekking,"['winter', 'spring', 'autumn']",3,8280.0,high,medium,75,3,1,1,0,1,1
