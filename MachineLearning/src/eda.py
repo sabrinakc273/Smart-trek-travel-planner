@@ -1,10 +1,12 @@
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
 warnings.filterwarnings('ignore')
+
+
+"""ml module for performing comprehensive exploratory data analysis (EDA) on the trek dataset"""
 
 # Set style
 sns.set_style('whitegrid')

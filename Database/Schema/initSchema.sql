@@ -1,6 +1,10 @@
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
-
+/* 
+  Database schema for the Smart Trek Travel Planner application.
+  This schema includes tables for destinations, seasonal suitability, cost breakdowns, itinerary templates, locations, and analytics.
+  It is designed to support a comprehensive travel planning experience with detailed information and machine learning capabilities.
+*/
 CREATE TABLE IF NOT EXISTS destinations (
     id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
     name VARCHAR(255) NOT NULL UNIQUE,

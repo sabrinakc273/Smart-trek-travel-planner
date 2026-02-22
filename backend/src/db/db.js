@@ -12,6 +12,8 @@ const pool = new Pool({
   connectionTimeoutMillis: config.database.connectionTimeoutMillis,
 });
 
+
+//connect the database to the backend
 pool.on("connect", () => {
   console.log("Connected to PostgresDB");
 });
@@ -68,6 +70,7 @@ const testConnection = async () => {
   }
 };
 
+//closes the database pool when the application is shutting down
 const closePool = async () => {
   try {
     await pool.end();
